@@ -1,0 +1,37 @@
+.Arun {
+  font-size: 2rem;
+  font-weight: 600;
+  padding: 1.75rem 3.5rem;
+  margin: 5rem 2rem;
+  border: none;
+  background-color: rgb(14, 66, 14);
+  color: rgb(238, 230, 230);
+  border-radius: 15rem;
+  cursor: pointer;
+}
+.Shova {
+  font-size: 2rem;
+  font-weight: 600;
+  padding: 1.75rem 3.5rem;
+  margin: 5rem 2rem;
+  border: none;
+  background-color: rgb(14, 66, 14);
+  color: rgb(238, 230, 230);
+  border-radius: 15rem;
+  cursor: pointer;
+}
+.Aarya {
+  font-size: 2rem;
+  font-weight: 600;
+  padding: 1.75rem 3.5rem;
+  margin: 5rem 2rem;
+  border: none;
+  background-color: rgb(14, 66, 14);
+  color: rgb(238, 230, 230);
+  border-radius: 15rem;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
