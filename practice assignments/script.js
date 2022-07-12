@@ -273,4 +273,6 @@ console.log(findsum(4)); */
 // console.log(x);
 
 //sets
-const ordersSet = new Set(['Pasta'], ['Pizza'])
+const ordersSet = new Set(
+    ['pasta', 'pizza', 'pizza', 'rissoto', 'pasta']);
+    console.log(ordersSet);
